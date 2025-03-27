@@ -1,8 +1,3 @@
-# Sensor Fault Detection
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/001Priyans/Sensor_Fault_Detection/main/assets/sensor.png" alt="Sensor Fault Detection" width="600" onerror="this.onerror=null; this.src='https://img.freepik.com/free-vector/circuit-board-technology-banner-blue-tone_1017-32941.jpg'">
-</p>
 
 ## 📋 Overview
 
